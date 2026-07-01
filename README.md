@@ -1,4 +1,3 @@
-[gemini-code-1782914061791.md](https://github.com/user-attachments/files/29554263/gemini-code-1782914061791.md)
 # C++ Projects and Learning Journey 🚀
 
 This repository contains the projects I have developed during my C++ learning process and the experiences I gained from each project. It is planned as a series of 5 projects.
