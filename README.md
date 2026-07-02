@@ -29,15 +29,29 @@ This repository contains the projects I have developed during my C++ learning pr
 
 **What Did I Learn From This Project?**
 * **Trial and Error Solution:** I developed this project mostly on my own, doing a lot of trial and error. I managed to build the logic myself without giving up.
-* **Operator Confusion (A Fun Error):** At first, I accidentally used the logical AND (`& &`) operator instead of the modulo operator (`%`) due to their visual similarity. Realizing and fixing this error later made me more careful about the correct use of operators.
+* **Operator Confusion (A Fun Error):** At first, I accidentally used the logical OR (`||`) operator instead of the modulo operator (`%`) due to their visual similarity. Realizing and fixing this error later made me more careful about the correct use of operators.
 * **Loop Syntax Discovery:** Initially, I wrote the `while` condition at the top, right after the `do` command. However, realizing my mistake, I learned through experience and correcting my error that the `while` must be at the bottom, outside the curly brace `}`.
+
+---
+
+## 📊 Project 3: Average Calculator
+
+**Project Goal:** To calculate the average of any desired values quickly and accurately. It aims to provide a fun experience by communicating with the user in a conversational tone on the console. For example, it provided a practical solution for daily academic needs, such as calculating the average of my "Mathematics for Computers" course in the Software Development department at Cappadocia University.
+
+**How It Works and Technical Specifications:**
+* **`float` Variable:** Even though my own grades were integers, the program was intended for general use. Considering that other people might have fractional grades, the `float` variable was used for both input values and the final output to perform precise and fractional calculations without errors.
+* **Conversational Interface:** A warmer and more interactive console text flow was designed while receiving data from the user.
+
+**What Did I Learn From This Project?**
+* **Independent Coding Confidence:** Completing this project from start to finish entirely on my own and quite easily made me feel that my coding logic is well established.
+* **Order of Operations and the Power of Parentheses:** I experienced that when translating mathematical calculations into code, extra attention must be paid to the order of operations (e.g., multiplication/division coming before addition). I learned in a fun way that parentheses are of vital importance when writing formulas and can completely change the accuracy of the result.
 
 ---
 
 ## 📅 Roadmap (Project Series)
 * [x] **Project 1:** Calculator (Completed)
 * [x] **Project 2:** Odd or Even Finder (Completed)
-* [ ] **Project 3:** To Be Done in the Following Days
+* [x] **Project 3:** Average Calculator (Completed)
 * [ ] **Project 4:** To Be Done in the Following Days
 * [ ] **Project 5:** To Be Done in the Following Days
 
